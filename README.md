@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kumaresan (@Kumaresan20bcs032)  
+# 👋 Hi, I’m Kumaresan
 
 ## 👀 About Me  
 I'm a **backend developer** passionate about building **scalable APIs** and **optimizing database queries** for high-performance applications. I specialize in **Node.js, Express.js, MongoDB, and Sequelize**. I also have experience integrating **third-party APIs** like Mailchimp, Sumsub KYC, DocuSign, and Microsoft Purview DLP.  
@@ -19,9 +19,6 @@ I'm a **backend developer** passionate about building **scalable APIs** and **op
 - Email: **kumaresanraja2002@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/kumaresanraja/**  
 - GitHub: **[@Kumaresan20bcs032](https://github.com/Kumaresan20bcs032)**  
-
-## 😄 Pronouns  
-He/Him  
 
 ## ⚡ Fun Fact  
 I love optimizing database queries to **reduce API response time**, and I get excited when I cut down execution time by milliseconds! 🚀  
